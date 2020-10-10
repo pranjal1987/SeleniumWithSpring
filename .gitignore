@@ -3,3 +3,7 @@
 .classpath
 .project
 .settings/
+test-output/
+.mvn/
+mvnw.cmd
+mvnw
